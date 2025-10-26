@@ -1,0 +1,6 @@
+path: C:\Users\slanu\OneDrive\Masaüstü\domates
+train: images/train
+val: images/train
+names:
+  0: domates
+  1: qr
