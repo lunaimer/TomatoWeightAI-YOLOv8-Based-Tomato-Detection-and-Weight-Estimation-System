@@ -3,8 +3,9 @@
 YOLOv8 kullanarak tarımsal domates analizi için geliştirilmiş bilgisayarlı görü sistemi.
 
 ## 🌟 Özellikler
+
 - **Gerçek zamanlı domates tespiti** - Kamera akışı ile anlık tespit
-- **Piksel bazlı boyut analizi** - Görüntü işleme ile hassas ölçüm
+- **Piksel bazlı boyut analizi** - Görüntü işleme ile hassas ölçüm  
 - **Ağırlık tahminleme** - Boyut analizine dayalı akıllı tahmin
 - **QR kod entegrasyonu** - Kullanıcı deneyimi iyileştirmesi
 - **Özel veri seti eğitimi** - Domain'e özel model optimizasyonu
@@ -23,3 +24,4 @@ cd TomatoWeightAI
 
 # Gereksinimleri yükleyin
 pip install -r requirements.txt
+```
